@@ -3,7 +3,6 @@
 *.mo
 *.pyc
 *.sqlite
-/.*
 !.coveragerc
 !.gitignore
 !.mailmap
