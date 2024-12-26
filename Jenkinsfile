@@ -19,7 +19,7 @@ pipeline {
             printPostContent: true,
             regexpFilterExpression: 'completed\\sdevelop\\ssuccess',
             regexpFilterText: '$action $branch $result',
-            token: 'nova'
+            token: 'cinder'
         )
     }
 
